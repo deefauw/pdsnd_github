@@ -5,10 +5,10 @@ January 2019
 Bikeshare Project
 
 ### Description
-Describe what your project is about and what it does
+Gives bikeshare data based on user input for cities of Chicago, NYC and DC
 
 ### Files used
-Include the files used
+bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Udacity Student Hub
