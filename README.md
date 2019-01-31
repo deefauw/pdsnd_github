@@ -5,7 +5,7 @@ January 2019
 Bikeshare Project
 
 ### Description
-Gives bikeshare data based on user input for cities of Chicago, NYC and DC
+Gives detailed bikeshare data based on user input for cities of Chicago, NYC and DC
 
 ### Files used
 bikeshare.py
