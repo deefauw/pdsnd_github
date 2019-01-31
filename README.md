@@ -9,6 +9,9 @@ Gives detailed bikeshare data based on user input for cities of Chicago, NYC and
 
 ### Files used
 bikeshare.py
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
 Udacity Student Hub
